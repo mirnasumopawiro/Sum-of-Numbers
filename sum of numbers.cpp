@@ -17,7 +17,7 @@ int main ()
 {
     int initialNumber = 1;
     int sum = 0;
-    int number;
+    int number; //user input
     
     cout << "Please insert a positive integer ";
     cin >> number;
